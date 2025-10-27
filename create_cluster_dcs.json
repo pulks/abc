@@ -1,0 +1,10 @@
+{
+
+"cluster_name": "single-node-docker-cluster",
+"num_workers": 1,
+"spark_version": "15.4.x-scala2.12",
+"node_type_id": "n1-standard-4", 
+"autotermination_minutes": 20,
+"docker_image": { "url": "<replac-with-docker-url" }
+
+}
